@@ -1,0 +1,2 @@
+# Onclick_Examania
+This is a PHP based online learning academy where studetns and teachers can collaborate with each other. Students can learn their lessons, can attend exams and also can practice their lessons. The teachers can view students profile. They can check the results and can make lessons. Admin can control the system from admin pannel. This can be a platform for both student and teachers to share the light of knowledge.
